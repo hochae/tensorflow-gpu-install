@@ -90,7 +90,7 @@ summary of tensorflow-gpu install
       python -m ipykernel install --user --name tf-gpu --display-name "TensorFlow-GPU"
       
       # start jupyter notebook in vnc
-      jypyter notebook
+      jupyter notebook
       
       # enjoy tensorflow... ;)
       ```
