@@ -1,4 +1,5 @@
 # papers
+## [What is the best ML paper you read in 2017 and why?](https://www.reddit.com/r/MachineLearning/comments/7n69h0/d_what_is_the_best_ml_paper_you_read_in_2017_and/?sort=confidence)
 ## [What is the best ML paper you read in 2018 and why?](https://scinapse.io/collections/67774)
 1. [NO TIME TO READ AI RESEARCH? WE SUMMARIZED TOP 2018 PAPERS FOR YOU](https://www.topbots.com/most-important-ai-research-papers-2018/)
 1. [How 3 engineers built a record-breaking supernova identification system with deep learning:](https://medium.com/@dessa_/space-2-vec-fd900f5566)
